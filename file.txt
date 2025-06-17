@@ -2,3 +2,4 @@ Added string #1 local---------------
 Added string #2 local--------epam---
 Added string #3 remote--------------
 Added string #4 local---------------
+Added string #5 in vim -------------
